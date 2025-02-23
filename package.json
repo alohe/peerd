@@ -1,0 +1,15 @@
+{
+	"name": "peerd",
+	"version": "1.0.0",
+	"description": "Install npm packages with --legacy-peer-deps automatically",
+	"main": "index.js",
+	"bin": {
+		"peerd": "./index.js"
+	},
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": ["npm", "install", "legacy-peer-deps"],
+	"author": "Alohe",
+	"license": "MIT"
+}
